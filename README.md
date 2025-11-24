@@ -9,4 +9,5 @@ A Flask-based web application that analyzes water quality based on pH and TDS va
 - Historical Data Visualization using Chart.js
 - CSV-based Local Storage
 
-Developed by Aman, Aditya, and Sameer.
+Developed by Aman and Aditya
+
