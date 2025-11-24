@@ -1,0 +1,7 @@
+DateTime,pH,TDS,Calcium,Magnesium,Potassium,Sodium,Sulphate,Chloride,Result
+2025-11-05 17:49:33,6.8,40.0,10.0,3.2,1.2,4.8,8.0,6.0,Excellent - Safe for Drinking
+2025-11-05 17:54:20,3.0,400.0,60.0,20.0,12.0,100.0,100.0,88.0,Moderate - Suitable for Domestic Use
+2025-11-05 17:54:42,10.0,2000.0,200.0,100.0,40.0,600.0,400.0,500.0,Poor - Unsafe
+2025-11-05 17:56:44,8.0,100.0,20.0,6.0,2.0,18.0,22.0,20.0,Excellent - Safe for Drinking
+2025-11-05 19:03:20,7.0,250.0,50.0,15.0,5.0,45.0,55.0,50.0,Excellent - Safe for Drinking
+2025-11-06 11:55:20,7.0,500.0,50.0,25.0,10.0,150.0,100.0,125.0,Moderate - Suitable for Domestic Use
